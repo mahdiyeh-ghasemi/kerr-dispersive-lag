@@ -1,0 +1,11 @@
+omega-prefactor formula vs simulation, max abs error : 0.004 hbar/Eg
+omega correction at 1028 nm in GaAs                   : -0.89 fs
+F_ph at x=0.60: formula 3.98e-04, simulation 4.03e-04
+F_ph at x=0.73: formula 2.19e-02, simulation 1.96e-02
+F_ph at x=0.76: formula 1.03e-02, simulation 1.03e-02
+F_ph at x=0.85: formula 7.02e-04, simulation 7.03e-04
+band gap giving 100-120 fs at 1028 nm : 1.6270 - 1.6273 eV (window 0.3 meV)
+corresponding probe energy            : x = 0.7412
+total gap range with |lag| > 50 fs    : 9.1 meV (around 1.629 eV)
+GaAs       zero crossing at 1180 nm; lag scale hbar/Eg = 0.464 fs
+MAPbBr3    zero crossing at 728 nm; lag scale hbar/Eg = 0.286 fs

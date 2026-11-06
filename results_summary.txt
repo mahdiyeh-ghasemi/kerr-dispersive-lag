@@ -1,0 +1,10 @@
+hbar/Eg (GaAs, Eg = 1.42 eV)          : 0.4635 fs
+probe photon energy x (1028 nm)       : 0.849
+zero crossing of Re n2 (model)        : x = 0.740  (1180 nm)
+analytic lag at 1028 nm (model)       : 1.43 fs
+analytic lag at x = 0.75              : 12.49 fs
+max abs. error, sim vs Eq. (6)        : 0.014 hbar/Eg  (all points except x on the zero crossing)
+at the zero crossing itself Eq. (6) diverges (first-order expansion breaks down);
+the simulation stays finite there.
+lag vs pulse duration (fs)            : 60fs->1.43, 100fs->1.43, 150fs->1.43, 200fs->1.43, 290fs->1.43, 400fs->1.43, 600fs->1.43
+measured in the paper (GaAs, 1028 nm) : ~100 fs (xx), ~120 fs (xy)
