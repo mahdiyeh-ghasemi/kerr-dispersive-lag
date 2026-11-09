@@ -95,6 +95,20 @@ where a large lag would be expected.
 - **Perovskite comparison** only rescales the same model with a different gap; real perovskites
   have strong excitonic and spin–orbit effects not included here.
 
+## Scope of this work
+
+This repository presents an independent computational
+implementation and extension of the theoretical framework
+discussed in the reference paper.
+
+The analytical framework and physical models are based
+on published work and are properly attributed above.
+
+The Python implementation, time-domain simulation,
+numerical validation, additional analyses, figures,
+and software tests were developed specifically for
+this repository by Mahdiyeh Ghasemi.
+
 ## Acknowledgement
 
 This project was developed with the help of AI-assisted coding tools.
