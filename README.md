@@ -1,4 +1,5 @@
 # Dispersive phase–amplitude lag in the time-resolved optical Kerr effect
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24091674.svg)](https://doi.org/10.5281/zenodo.24091674)
 
 A small reproduction and extension study of
 
